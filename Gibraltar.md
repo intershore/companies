@@ -5,6 +5,7 @@
 * Fees for the management of a company.
 * Company details can be disclosed.
 * Accounts and other returns are an annual requirement.
+* Costs: £50 (registration fee) + £400 (setup).
 
 
 
