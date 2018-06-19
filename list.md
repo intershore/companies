@@ -11,5 +11,5 @@ No company registrations links and no affiliates. Only useful links!
 
 
 Countries:
-* [Gibraltar](gibraltar)
-* [Belize](belize)
+* [Gibraltar](../Gibraltar)
+* [Belize](../Belize)
