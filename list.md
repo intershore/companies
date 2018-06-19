@@ -14,3 +14,8 @@ No company registrations links and no affiliates. Only useful links!
 * tax free
 * no annual audit or tax filling
 
+
+# Gibraltar
+
+Gibraltar Non-Resident Company:
+* [Gibraltar Non-Resident Company by world.tax](https://www.world.tax/countries/gibraltar/gibraltar-nonresident-company.php)
