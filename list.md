@@ -13,3 +13,4 @@ No company registrations links and no affiliates. Only useful links!
 Countries:
 * [Gibraltar](../Gibraltar)
 * [Belize](../Belize)
+* [Puerto Rico](../PuertoRico)
