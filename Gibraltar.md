@@ -1,4 +1,4 @@
-# Gibraltar
+# 🇬🇮 Gibraltar
 
 [Business Entities](https://www.gibraltar.gov.gi/new/entities). Company:
 * Comply with the provisions of the Companies Act.
