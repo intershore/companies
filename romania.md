@@ -14,4 +14,3 @@
 
 * [PWC Romania Corporate Taxes](http://taxsummaries.pwc.com/ID/Romania-Corporate-Taxes-on-corporate-income)
 * [WTS](https://wtsklient.hu/2018/04/12/romanian-corporate-income-tax/)
-* []()
