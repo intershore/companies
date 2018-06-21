@@ -12,3 +12,9 @@
 ## Gibraltar Non-Resident Company
 
 * [Info by world.tax](https://github.com/intershore/companies/blob/master/list.md)
+
+
+# Incorporation
+
+List of online incorporation options:
+* [flagtheory](https://flagtheory.com/product/incorporate-in-gibraltar/) - $2,850 + $1,550
