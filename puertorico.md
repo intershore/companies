@@ -16,6 +16,7 @@ part of US
 
 * [Registry of Corporations and Entities](https://prcorpfiling.f1hst.com/)
 * [PR corporation by offshorecompany](https://www.offshorecompany.com/company/puerto-rico-corporation/)
+* [Register Corporations by Department of State](https://estado.pr.gov/en/register-corporations/)
 
 # Incorporate
 
