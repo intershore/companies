@@ -2,10 +2,11 @@
 
 ## Micro Company
 
-* if revnenue < €1,000,000
+* Tax: 1%
 * Requirements:
-  * share capital of at least 45,000 Romanian leu (RON).
-  * Have at least two employees.
+  * revenue < €1,000,000
+  * share capital <= 45,000 Romanian leu (RON).
+  * >= 2 employees.
 
 ## Links
 
