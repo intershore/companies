@@ -11,12 +11,13 @@ part of US
   * minimum share capital
   * annual reports
 
-
 # Overview
 
 * [Registry of Corporations and Entities](https://prcorpfiling.f1hst.com/)
 * [PR corporation by offshorecompany](https://www.offshorecompany.com/company/puerto-rico-corporation/)
 * [Register Corporations by Department of State](https://estado.pr.gov/en/register-corporations/)
+  * `Limited Liability Companies (LLC) will not have to file an annual report with the Department of State, they will pay annual fees in the amount of $150.00`
+
 
 # Incorporate
 
