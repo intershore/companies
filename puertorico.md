@@ -15,4 +15,4 @@ part of US
 # Overview
 
 * [Registry of Corporations and Entities](https://prcorpfiling.f1hst.com/)
-* [https://www.offshorecompany.com/company/puerto-rico-corporation/](PR corporation by offshorecompany)
+* [PR corporation by offshorecompany](https://www.offshorecompany.com/company/puerto-rico-corporation/)
