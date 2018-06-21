@@ -18,3 +18,4 @@
 
 List of online incorporation options:
 * [flagtheory](https://flagtheory.com/product/incorporate-in-gibraltar/) - $2,850 + $1,550
+* [cfsformations](https://www.cfsformations.com/offshore-formations/gibraltar-company-registration) - £948 + £654
