@@ -8,7 +8,7 @@ Steps:
     * in English and Georgian
     * Infos: company name, company address, company email, subject of activity, founding partners, share %, director.
     * The company address: signed permission of the location owner that the location can be used as company address.
-    * Costs: 105 GEL
+    * Costs: 105 GEL ([see in USD](https://exchangerate.guru/gel/usd/105/))
     * Processing Time: 1 day
 
 ## Georgian Virtual Zone IT Company Formation
