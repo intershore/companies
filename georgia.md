@@ -1,4 +1,4 @@
-# 🇬🇪 Georgia
+# 🇬🇪 Georgia Company
 
 ## Georgian LLC Company Formation
 
