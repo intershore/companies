@@ -8,3 +8,4 @@ Steps:
     * in English and Georgian
     * Infos: company name, company address, company email, subject of activity, founding partners, share %, director.
     * The company address: signed permission of the location owner that the location can be used as company address.
+    * Costs: 105 GEL
