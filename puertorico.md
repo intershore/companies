@@ -1,4 +1,4 @@
-# 🇵🇷 Puerto Rico
+# 🇵🇷 Puerto Rico Company
 
 part of US
 
