@@ -24,7 +24,7 @@ Data:
 
 Steps:
 * Register a Georgian company as described in the step above
-* Apply for the "Virtual Zone" Status at http://newzone.mof.ge/en
+* [Apply for the "Virtual Zone" Status at http://newzone.mof.ge/en](http://newzone.mof.ge/en)
     * Costs:
     * Processing Time: 10 days
 
