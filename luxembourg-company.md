@@ -4,6 +4,7 @@
 
 Data:
 * 0% tax corporate income tax and 0% withholding tax
+* double taxation agreemnts do not apply.
 * activities:
   * yes: acquisition, holding, management and the realisation of investments in financial instruments
   * no: commercial or trading activity
