@@ -4,6 +4,7 @@
 
 Data:
 * 15% corporate tax
+* 5% dividend tax or according to [Double Tax Agreement](http://taxsummaries.pwc.com/ID/Georgia-Corporate-Withholding-taxes)
 
 Steps:
 * Register the company in any [Public Service Hall](http://psh.gov.ge/)
@@ -20,7 +21,6 @@ Data:
 * allowed activities: research, development, support, design, production and implementation of computer and information systems
 * 0% corporate tax on revenue from outside of Georgia
 * 0% VAT tax on revenue from outside of Georgia
-* 5% dividend tax or according to Double Tax Agreement
 
 Steps:
 * Register a Georgian company as described in the step above
